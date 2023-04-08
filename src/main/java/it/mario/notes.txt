@@ -1,0 +1,25 @@
+
+>spring initializer
+>dependencies:
+    Spring Data JPA
+    Spring Web
+    JDBC API
+    MySQL Driver
+    (Lombok) optional
+>set .properties
+>create db in terminal
+    create database mostracanina;
+    use mostracanina;
+
+insert into proprietario(cod_partecipazione, citta, cognome, nome) values (
+1, 'roma','rossi','paolo');
+insert into
+>create @Entity classes->objects mapped to a database table ->(Cane, Proprietario)
+> interfaces for each @Entity and classes that implement interfaces: CaniServiceImpl, ProprietaryServiceImpl
+>Service classes, Repository classes,controllers
+
+
+
+===============
+
+

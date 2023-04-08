@@ -1,0 +1,20 @@
+Sviluppare un’ applicazione  che gestisca una mostra canina
+
+Devono essere realizzate classi Entity
+
+Class Cane
+ con proprieta:
+Razza
+eta
+sex
+peso
+proprietario
+voto
+
+Class Proprietario
+Cognome
+nome
+citta
+
+
+Il progetto è gestito con JPA Hibernate e spring Web
